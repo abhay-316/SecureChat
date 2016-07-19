@@ -1,0 +1,10 @@
+javac ChatMessage.java
+javac Client.java
+javac ClientGUI.java
+javac Server.java
+javac ServerGUI.java
+javac Asn1Object.java
+javac CipherInterface.java
+javac DerParser.java
+javac RSA_433.java
+javac DES.java
